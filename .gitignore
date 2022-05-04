@@ -1,4 +1,4 @@
 data/**
 download/**
-koeln/**
 best_model_unet.h5
+debug.log
